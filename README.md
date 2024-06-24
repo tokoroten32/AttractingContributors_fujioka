@@ -24,3 +24,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1. horse racing
 2. power efficiency
 3. Code clone
+4. Self admitted technical debt
