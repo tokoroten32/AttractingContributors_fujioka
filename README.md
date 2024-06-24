@@ -27,3 +27,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - karate (https://github.com/ibu00024/AttractingContributors)
 - Soccer（https://github.com/kuroishirai/SocialDeveloper_shirai）
 - Encourage becoming a PhD student.
+- tennis
