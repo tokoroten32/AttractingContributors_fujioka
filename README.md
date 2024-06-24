@@ -21,6 +21,6 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Your Research Words
-1. Fuzzing
-2. Code clone
-
+1. horse racing
+2. power efficiency
+3. Code clone
