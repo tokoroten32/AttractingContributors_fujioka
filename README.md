@@ -15,13 +15,8 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
-
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+# Favorite movie
+Please add your favorite movies to the list below so we can all have the same ones!
 
 # List of Hobby
-1. tennis
-2. swimming
-3. game
-4. PC customize
+- Avengers: Endgame (me)
