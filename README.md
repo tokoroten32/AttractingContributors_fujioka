@@ -26,3 +26,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 3. Code clone
 4. Self admitted technical debt
 5. Refactoring
+6. Augmented Reality
