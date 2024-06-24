@@ -27,3 +27,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 4. Self admitted technical debt
 5. Refactoring
 6. Augmented Reality
+7. SnapshotTesting
