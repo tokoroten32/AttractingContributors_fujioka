@@ -25,3 +25,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 2. power efficiency
 3. Code clone
 4. Self admitted technical debt
+5. Refactoring
