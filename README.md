@@ -24,3 +24,4 @@ Goal: I want contributors to help me list out their favorite artist.
 3. Jamiroquai
 4. Sakanaction(サカナクション)
 5. Creepy Nuts
+6. The Beatles
