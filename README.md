@@ -26,4 +26,5 @@ Please add your favorite movies to the list below so we can all have the same on
 - Bad Boys
 - Interstellar
 - Iron Man
+- The Wind Rises
 - Titanic
