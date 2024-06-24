@@ -18,7 +18,7 @@ To complete the assignment, please do the following:
 # Favorite movie
 Please add your favorite movies to the list below so we can all have the same ones!
 
-# List of Hobby
+# List of Movie
 - Avengers: Endgame (me)
 - Interstellar
 - Back to The Future
