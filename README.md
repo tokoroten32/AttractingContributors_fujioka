@@ -26,3 +26,4 @@ Goal - I want contributors to help me list some sports. Please add below.
 5. Cricket
 6. Swimming
 7. Basketball
+8. baseball
