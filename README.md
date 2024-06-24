@@ -24,3 +24,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - judo
 - basketball (https://github.com/Mont9165/AttractingContributors-hobby-sports)
 - Cricket
+- karate (https://github.com/ibu00024/AttractingContributors)
+- 
