@@ -28,3 +28,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 5. Refactoring
 6. Augmented Reality
 7. SnapshotTesting
+8. document
