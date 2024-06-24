@@ -22,4 +22,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Your Research Words
 1. Fuzzing
+2. horse racing
 
